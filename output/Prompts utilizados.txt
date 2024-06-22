@@ -1,0 +1,11 @@
+Prompts utilizados:
+
+	- Para o título: 
+		1 - Crie um título de um ebook sobre o tema de java, o ebook é do nicho de programaç?o e o subnicho é de java e mais especificamente JAVA Stream API. O título deve ser épico e curto, e tenha uma temática mais nerd e prática e podendo até ter um tom meio engraçado e chamativo. Me d? 10 exemplos por favor.
+		2 - D? mais sugest?es e misture com essa ideia: Stream API do Java: Guia Prático e Enxuto
+		
+		Resultado que mais gostei foi: Stream API do Java: Simples, Prático e Poderoso
+		
+	- Para a capa (Midjourney):
+	
+	
